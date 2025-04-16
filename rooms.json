@@ -1,0 +1,12 @@
+[
+  {
+    "id": "room101",
+    "name": "Deluxe Suite",
+    "price": 4000
+  },
+  {
+    "id": "room102",
+    "name": "Executive Room",
+    "price": 3000
+  }
+]
